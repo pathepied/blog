@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ぱすぴえのブログ</title>
+    <link>https://pathepied.github.io/blog/</link>
+    <description>Recent content on ぱすぴえのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>JP</language>
+    <lastBuildDate>Sun, 09 Jan 2022 13:36:47 +0000</lastBuildDate><atom:link href="https://pathepied.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめまして</title>
+      <link>https://pathepied.github.io/blog/post/20220109/</link>
+      <pubDate>Sun, 09 Jan 2022 13:36:47 +0000</pubDate>
+      
+      <guid>https://pathepied.github.io/blog/post/20220109/</guid>
+      <description>最初のブログ</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pathepied.github.io/blog/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pathepied.github.io/blog/readme/</guid>
+      <description>趣味のブログです。
+興味事 ゲーム  Monster Hunterシリーズ Final Fantasyシリーズ Assassin&amp;rsquo;s Creedシリーズ  お勉強  Unity Deep Learning  </description>
+    </item>
+    
+  </channel>
+</rss>
