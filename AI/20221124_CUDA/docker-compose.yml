@@ -1,0 +1,17 @@
+version: ”3"
+
+services:
+  server:
+    container_name: cuda-jupyter-lab
+    build: .
+    entrypoint: "jupyter-lab --allow-root --no-browser --ip=0.0.0.0 --port=8888 --NotebookApp.token='' --NotebookApp.root_dir='/opt/notebook/work/'"
+    ports:
+      - 49152:8888
+    volumes:
+      - ./work/:/opt/notebook/work/
+    restart: always
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
